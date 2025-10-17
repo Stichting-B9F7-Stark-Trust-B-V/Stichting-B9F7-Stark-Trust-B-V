@@ -2,122 +2,39 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Over Ons
 
-[Link to another page](./another-page.html).
+Stichting B9F7 Stark Trust B.V. is meer dan een investeringsentiteit; wij zijn de architecten van een duurzame en intelligente toekomst. Gevestigd in het hart van de Amsterdamse Zuidas, met een beheerd vermogen van **€1,38 miljard**, richten wij ons op het identificeren en ondersteunen van de meest veelbelovende bedrijven en initiatieven die Europa's grootste uitdagingen aanpakken. Onze unieke structuur als Nederlandse stichting ('Stichting') geeft ons een doelgericht mandaat voor de lange termijn, waardoor we geduldig kapitaal kunnen inzetten om duurzame, maatschappelijke en financiële waarde te creëren.
 
-There should be whitespace between paragraphs.
+---
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### Onze Filosofie: Kapitaal als Katalysator
 
-# Header 1
+Wij beschouwen kapitaal niet als een doel op zich, maar als een krachtige katalysator voor vooruitgang. Onze filosofie is geworteld in de overtuiging dat de meest grensverleggende innovaties meer vereisen dan alleen financiering. Ze hebben een partner nodig die diepgaand betrokken is, die de complexiteit van de markt begrijpt en die een gedeelde visie op de lange termijn heeft.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Daarom opereren wij als actieve partners. We nemen zitting in besturen, bieden strategische begeleiding en stellen ons uitgebreide netwerk van industrie-experts, academici en beleidsmakers ter beschikking. We zijn bouwers, toegewijd aan het creëren van veerkrachtige, marktleidende organisaties die een blijvende positieve impact hebben.
 
-## Header 2
+### Onze Aanpak: Gedisciplineerd en Thematisch
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Onze investeringsaanpak is gedisciplineerd, onderzoeksgedreven en thematisch. We jagen geen vluchtige trends na, maar richten ons met overtuiging op de structurele verschuivingen die onze economie en samenleving voor de komende decennia zullen vormgeven. Onze activiteiten zijn geconcentreerd rond vijf met elkaar verweven kernpilaren:
 
-### Header 3
+* **Onderwijs:** Investeren in technologieën en platforms die de toegang tot kennis democratiseren en een cultuur van levenslang leren bevorderen om het menselijk kapitaal van Europa te versterken.
+* **Nieuwe Energie:** Het financieren van de hardware, software en infrastructuur die essentieel zijn voor het versnellen van de transitie naar een duurzaam en betrouwbaar energiesysteem.
+* **Artificiële Intelligentie (AI):** Het ondersteunen van de ontwikkeling en de ethische toepassing van AI in kritieke sectoren om efficiëntie, innovatie en concurrentievermogen te stimuleren.
+* **Databeveiliging:** Investeren in de volgende generatie cyberbeveiliging en datasoevereiniteit-oplossingen om de digitale ruggengraat van onze samenleving te beschermen.
+* **Netwerkinfrastructuur:** Het versterken van de fundamentele communicatie- en computerinfrastructuur die de basis vormt voor een veilige en bloeiende digitale economie.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### Onze Kernwaarden
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+Onze cultuur en onze beslissingen worden geleid door vier onwankelbare waarden:
 
-#### Header 4
+1.  **Integriteit:** We opereren met de hoogste ethische normen. Transparantie en verantwoordelijkheid vormen de hoeksteen van al onze relaties.
+2.  **Pioniersgeest:** We zijn onophoudelijk nieuwsgierig en omarmen moedig de complexe, 'moeilijke' problemen die anderen misschien mijden. We investeren in de oplossingen van morgen.
+3.  **Duurzaam Partnerschap:** We committeren ons voor de lange termijn. We delen in de uitdagingen en successen van de ondernemers die we ondersteunen.
+4.  **Maatschappelijke Impact:** We geloven dat ons succes onlosmakelijk verbonden is met de vooruitgang van de samenleving. We streven actief naar investeringen die een meetbare, positieve bijdrage leveren aan een betere wereld.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+### In het Hart van Innovatie
 
-##### Header 5
+Onze locatie in de Viñoly-toren aan de Amsterdamse Zuidas plaatst ons in het centrum van de Europese financiële en technologische wereld. Dit levendige ecosysteem biedt ons en onze portefeuillebedrijven directe toegang tot talent, kapitaal en een wereldwijd netwerk, wat essentieel is voor het realiseren van onze ambitieuze doelen.
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Stichting B9F7 Stark Trust B.V. is toegewijd aan het bouwen van een veerkrachtig, innovatief en duurzaam Europa voor de komende generaties.
